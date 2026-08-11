@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size =50px ">Hi 👋, I'm Aditi Wagh</h1>
+<h1 align="center" style="font-size =50px ">Hi 👋, I'm Sneha Lad</h1>
 
 <h3 align="center">Enthusiastic as well as passionate student  | IT Student</h3>
 
@@ -21,7 +21,7 @@ I'm a passionate Computer Science student focused on building practical software
 - 📚 Constantly learning new technologies and best practices
 - 🎓 Informational technology Student
 
-📫 Email: waghaditi80@gmail.com
+📫 Email: slad3757@gmail.com
 
 ---
 
@@ -57,15 +57,15 @@ I'm a passionate Computer Science student focused on building practical software
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditiwagh-1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sneha-lad23&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiwagh-1&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-lad23&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiwagh-1&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-lad23&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -75,15 +75,15 @@ I'm a passionate Computer Science student focused on building practical software
 🤝 Connect With Me
 <br><br>
 <p align="center">
-  <a href="https://github.com/aditiwagh-1">
+  <a href="https://github.com/sneha-lad23">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a><br><br>
 
-  <a href="https://linkedin.com/in/aditiwagh08">
+  <a href="https://linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a><br><br>
 
-  <a href="mailto:waghaditi80@gmail.com">
+  <a href="mailto:slad3757@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
   </a>
 </p>
