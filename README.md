@@ -1,94 +1,93 @@
-<h1 align="center" style="font-size =50px ">Hi 👋, I'm Sneha Lad</h1>
+# Hi there, I'm Sneha Lad! 👋
 
-<h3 align="center">Enthusiastic as well as passionate student  | IT Student</h3>
+### 💻 BCA Graduate | Aspiring Full Stack Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Developer;Flask+Enthusiast;Linux+Learner;AI+%26+Machine+Learning+Explorer;Open+to+Internship+Opportunities" alt="Typing SVG" />
-</p>
+Welcome to my GitHub profile!
 
----
-
-👨‍💻 About Me
-
-I'm a passionate Computer Science student focused on building practical software solutions and continuously improving my development skills.
-
-- 🐍 Building applications with Python
-- 🌐 Learning Backend Development with Flask
-- 🗄️ Working with SQL and Database Management
-- 🐧 Exploring Linux and DevOps fundamentals
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🚀 Building projects to solve real-world problems
-- 📚 Constantly learning new technologies and best practices
-- 🎓 Informational technology Student
-
-📫 Email: slad3757@gmail.com
+I'm a BCA Graduate passionate about Web Development and Software Development. I'm currently learning MERN Stack Development and improving my programming skills by building practical projects.
 
 ---
 
-## 🛠️ Tech Stack
+### 🙋‍♀️ About Me
 
-<p align="center">
+- 🎓 BCA Graduate
+- 💻 Interested in Full Stack Web Development
+- 🌱 Currently learning MERN Stack Development
+- 🧠 Practicing JavaScript and Problem Solving
+- 🔨 Building real-world projects
+- 🎯 Goal: Become a skilled Full Stack Developer
+- 📚 Always ready to learn new technologies
 
-<img src="https://img.shields.io/badge/Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Flask%20-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/SQL%20Database-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Git%20-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Linux%20Env-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+---
 
-<img src="https://img.shields.io/badge/HTML5%20-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3%20-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/C%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B%20Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+### 🛠️ Technologies & Skills
 
-<img src="https://img.shields.io/badge/Pandas%20Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy%20-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib%20-11557C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Scikit--Learn%20ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+**Frontend Development**
 
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white">
+**Backend Development**
 
-</p>
+**Database**
 
+**Tools & Version Control**
 
-📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sneha-lad23&show_icons=true&theme=tokyonight" />
-</p>
+### 🚀 My Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-lad23&theme=tokyonight" />
-</p>
+**1. Post Office Management System**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-lad23&layout=compact&theme=tokyonight" />
-</p>
+- Developed using PHP and MySQL.
+- A college project focused on managing post office operations.
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/adiitechpro?theme=dark&font=baloo&ext=heatmap" />
-</p>
+**2. Personal Portfolio Website**
 
-🤝 Connect With Me
-<br><br>
-<p align="center">
-  <a href="https://github.com/sneha-lad23">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a><br><br>
+- Built using HTML and CSS.
+- Showcases my introduction, skills and projects.
 
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-  </a><br><br>
+**3. Student Task Manager**
 
-  <a href="mailto:slad3757@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+- A JavaScript learning project.
+- Practicing programming concepts and project development.
 
+**4. Blood Bank Management System**
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+- College project.
+
+---
+
+### 📚 Currently Learning
+
+- JavaScript – Advanced Concepts
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Git & GitHub
+
+---
+
+### 🎯 My Goals
+
+- Become a Full Stack Developer.
+- Build practical and useful web applications.
+- Improve my coding and problem-solving skills.
+- Contribute to open-source projects.
+- Start my professional career in the IT industry.
+
+---
+
+### 🤝 Connect With Me
+
+- GitHub: [@sneha-lad23](https://github.com/sneha-lad23)
+- LinkedIn: [Sneha Lad](https://www.linkedin.com/in/sneha-lad-bbb417382/)
+- Instagram: [@sneha_lad23](https://instagram.com/sneha_lad23/)
+- Gmail: [slad3757@gmail.com](mailto:slad3757@gmail.com)
+
+---
+
+### 💡 Developer Mindset
+
+"Every expert was once a beginner. Keep learning, keep building and keep growing!" 🚀
+
+**Thanks for visiting my profile! 😊**
