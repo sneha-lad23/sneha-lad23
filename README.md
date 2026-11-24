@@ -24,11 +24,25 @@ I'm a BCA Graduate passionate about Web Development and Software Development. I'
 
 **Frontend Development**
 
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+
 **Backend Development**
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
 
 **Database**
 
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+
 **Tools & Version Control**
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -79,10 +93,20 @@ I'm a BCA Graduate passionate about Web Development and Software Development. I'
 
 ### 🤝 Connect With Me
 
-- GitHub: [@sneha-lad23](https://github.com/sneha-lad23)
-- LinkedIn: [Sneha Lad](https://www.linkedin.com/in/sneha-lad-bbb417382/)
-- Instagram: [@sneha_lad23](https://instagram.com/sneha_lad23/)
-- Gmail: [slad3757@gmail.com](mailto:slad3757@gmail.com)
+<p align="center">
+  <a href="https://github.com/sneha-lad23">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sneha-lad-bbb417382/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/sneha_lad23/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:slad3757@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -90,4 +114,6 @@ I'm a BCA Graduate passionate about Web Development and Software Development. I'
 
 "Every expert was once a beginner. Keep learning, keep building and keep growing!" 🚀
 
-**Thanks for visiting my profile! 😊**
+<p align="center">
+  **Thanks for visiting my profile! 😊**
+</p>
