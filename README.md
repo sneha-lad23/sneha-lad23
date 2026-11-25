@@ -17,9 +17,6 @@
 
 ---
 
-## 🌸 About Me
-
-```javascript
 const sneha = {
     education: "BCA Graduate",
     role: "Aspiring Full Stack Developer",
@@ -32,17 +29,6 @@ const sneha = {
     goal: "Become a Skilled Full Stack Developer",
     motto: "Never Stop Learning 🚀"
 };
-```
-
-- 🎓 BCA Graduate
-- 💻 Interested in Full Stack Web Development
-- 🌱 Currently learning MERN Stack Development
-- 🧠 Practicing JavaScript and Problem Solving
-- 🔨 Building real-world projects
-- 🎯 Goal: Become a skilled Full Stack Developer
-- 📚 Always ready to learn new technologies
-
----
 
 ## 💎 Tech Stack & Tools
 
