@@ -1,14 +1,38 @@
-# Hi there, I'm Sneha Lad! 👋
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8A2BE2,100:00C9FF&height=200&section=header&text=Sneha%20Lad&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
+# 👋 Hello, World! I'm Sneha Lad
 
 ### 💻 BCA Graduate | Aspiring Full Stack Developer
 
-Welcome to my GitHub profile!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A7BFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;MERN+Stack+Development+Learner;Passionate+About+Web+Development;Learning+%7C+Building+%7C+Growing" />
 
-I'm a BCA Graduate passionate about Web Development and Software Development. I'm currently learning MERN Stack Development and improving my programming skills by building practical projects.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sneha-lad23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sneha-lad-bbb417382/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/sneha_lad23/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:slad3757@gmail.com)
+
+</div>
 
 ---
 
-### 🙋‍♀️ About Me
+## 🌸 About Me
+
+```javascript
+const sneha = {
+    education: "BCA Graduate",
+    role: "Aspiring Full Stack Developer",
+    currentlyLearning: "MERN Stack",
+    interests: [
+        "Web Development",
+        "Software Development",
+        "Problem Solving"
+    ],
+    goal: "Become a Skilled Full Stack Developer",
+    motto: "Never Stop Learning 🚀"
+};
+```
 
 - 🎓 BCA Graduate
 - 💻 Interested in Full Stack Web Development
@@ -20,58 +44,70 @@ I'm a BCA Graduate passionate about Web Development and Software Development. I'
 
 ---
 
-### 🛠️ Technologies & Skills
+## 💎 Tech Stack & Tools
 
-**Frontend Development**
+### 🎨 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-**Backend Development**
+### ⚙️ Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php" />
+</p>
 
-**Database**
+### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-**Tools & Version Control**
+### 🔧 Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-### 🚀 My Projects
-
-**1. Post Office Management System**
-
-- Developed using PHP and MySQL.
-- A college project focused on managing post office operations.
-
-**2. Personal Portfolio Website**
-
-- Built using HTML and CSS.
-- Showcases my introduction, skills and projects.
-
-**3. Student Task Manager**
-
-- A JavaScript learning project.
-- Practicing programming concepts and project development.
-
-**4. Blood Bank Management System**
-
-- College project.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-### 📚 Currently Learning
+## 🚀 Featured Projects
 
-- JavaScript – Advanced Concepts
+### 📮 01. Post Office Management System
+
+**Technologies:** PHP | MySQL
+
+- Developed as a college project.
+- Focused on managing post office operations.
+
+### 🩸 02. Blood Bank Management System
+
+**Technologies:** College Project
+
+- Developed as an academic project.
+
+### 🌐 03. Personal Portfolio Website
+
+**Technologies:** HTML | CSS
+
+- Personal website to showcase my introduction, skills and projects.
+
+### 📚 04. Student Task Manager
+
+**Technologies:** JavaScript
+
+- A learning project to practice JavaScript concepts and project development.
+
+---
+
+## 📖 Currently Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb" />
+</p>
+
+- Advanced JavaScript Concepts
 - React.js
 - Node.js
 - Express.js
@@ -81,39 +117,64 @@ I'm a BCA Graduate passionate about Web Development and Software Development. I'
 
 ---
 
-### 🎯 My Goals
+## 📊 GitHub Analytics
 
-- Become a Full Stack Developer.
-- Build practical and useful web applications.
-- Improve my coding and problem-solving skills.
-- Contribute to open-source projects.
-- Start my professional career in the IT industry.
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sneha-lad23&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
 
-### 🤝 Connect With Me
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-lad23&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
-<p align="center">
-  <a href="https://github.com/sneha-lad23">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sneha-lad-bbb417382/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/sneha_lad23/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:slad3757@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-lad23&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
 
 ---
 
-### 💡 Developer Mindset
+## 🎯 My Goals
 
-"Every expert was once a beginner. Keep learning, keep building and keep growing!" 🚀
+- 🚀 Become a Professional Full Stack Developer.
+- 💡 Build useful real-world applications.
+- 🧠 Improve coding and problem-solving skills.
+- 🌍 Contribute to open-source projects.
+- 💼 Start my professional career in the IT industry.
 
-<p align="center">
-  **Thanks for visiting my profile! 😊**
-</p>
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://github.com/sneha-lad23">
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sneha-lad-bbb417382/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/sneha_lad23/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="mailto:slad3757@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Developer Mindset
+
+*"Every expert was once a beginner. Keep learning, keep building and keep growing!"*
+
+### Thanks for visiting my profile! 🌷
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:8A2BE2,100:6C63FF&height=120&section=footer" width="100%"/>
+
+</div>
