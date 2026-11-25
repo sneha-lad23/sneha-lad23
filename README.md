@@ -17,19 +17,21 @@
 
 ---
 
-const sneha = {
-    education: "BCA Graduate",
-    role: "Aspiring Full Stack Developer",
-    currentlyLearning: "MERN Stack",
-    interests: [
-        "Web Development",
-        "Software Development",
-        "Problem Solving"
-    ],
-    goal: "Become a Skilled Full Stack Developer",
-    motto: "Never Stop Learning 🚀"
-};
+## 🌸 About Me
 
+🎓 **BCA Graduate**
+
+💻 Passionate about Web Development and Software Development.
+
+🌱 Currently learning **MERN Stack Development**.
+
+🧠 Practicing JavaScript and Problem Solving.
+
+🚀 Building projects and improving my development skills.
+
+🎯 My goal is to become a skilled Full Stack Developer.
+
+📚 Always curious to learn new technologies and explore new opportunities.
 ## 💎 Tech Stack & Tools
 
 ### 🎨 Frontend Development
