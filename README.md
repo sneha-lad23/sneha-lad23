@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8A2BE2,100:00C9FF&height=200&section=header&text=Sneha%20Lad&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-# 👋 Hello, World! I'm Sneha Lad
+# 👋 Hello! I'm Sneha Lad
 
 ### 💻 BCA Graduate | Aspiring Full Stack Developer
 
