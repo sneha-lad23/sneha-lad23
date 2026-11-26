@@ -1,4 +1,4 @@
-<img width="2048" height="768" alt="Waves" src="https://github.com/user-attachments/assets/ae5bc86b-e976-414a-b203-445b2e4352c6" /> <div align="center">
+
 
 <p align="center">
   <img src="WAVES.png" width="100%" />
