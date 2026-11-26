@@ -18,9 +18,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/sneha_lad23/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:slad3757@gmail.com)
 
-</div>
+</div></h1>
 
----</h1>
+---
 
 ## 🌸 About Me
 
