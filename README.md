@@ -7,7 +7,7 @@
 </p>
 
 
-# 👋 Hello! I'm Sneha Lad
+<h1 align="center"># 👋 Hello! I'm Sneha Lad
 
 ### 💻 BCA Graduate | Aspiring Full Stack Developer
 
@@ -20,7 +20,7 @@
 
 </div>
 
----
+---</h1>
 
 ## 🌸 About Me
 
