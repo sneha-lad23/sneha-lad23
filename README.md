@@ -3,8 +3,9 @@
 
 
 <p align="center">
-  <img src="[WAVES.png](https://github.com/sneha-lad23/sneha-lad23/blob/main/Waves.png)" width="100%" />
+  <img src="./Waves.png" width="100%" />
 </p>
+
 
 # 👋 Hello! I'm Sneha Lad
 
