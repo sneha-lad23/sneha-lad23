@@ -1,6 +1,8 @@
- <div align="center">
+<img width="2048" height="768" alt="Waves" src="https://github.com/user-attachments/assets/ae5bc86b-e976-414a-b203-445b2e4352c6" /> <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8A2BE2,100:00C9FF&height=200&section=header&text=Sneha%20Lad&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<p align="center">
+  <img src="WAVES.png" width="100%" />
+</p>
 
 # 👋 Hello! I'm Sneha Lad
 
